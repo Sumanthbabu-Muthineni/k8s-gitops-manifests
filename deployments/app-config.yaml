@@ -1,0 +1,3 @@
+
+# [WATCHDOG AUTO-FIX 20260822-195733]
+# Add missing DB_SECRET_KEY to ConfigMap
