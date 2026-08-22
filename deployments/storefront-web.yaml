@@ -25,3 +25,6 @@ spec:
             cpu: "100m"
         ports:
         - containerPort: 80
+
+# [WATCHDOG AUTO-FIX 20260822-181156]
+# Rollback storefront-web image tag to stable 'v2.9.4'
