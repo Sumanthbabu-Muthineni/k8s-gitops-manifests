@@ -1,3 +1,6 @@
 
 # [WATCHDOG AUTO-FIX 20260822-183921]
 # Correct the image registry URL in the deployment manifest
+
+# [WATCHDOG AUTO-FIX 20260822-200808]
+# Correct the image tag in the storefront-web deployment
