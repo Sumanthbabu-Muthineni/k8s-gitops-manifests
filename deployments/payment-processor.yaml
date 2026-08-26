@@ -21,10 +21,10 @@ spec:
         image: nginx:alpine
         resources:
           limits:
-            memory: "256Mi"
+            memory: "1Gi"
             cpu: "200m"
           requests:
-            memory: "128Mi"
+            memory: "512Mi"
             cpu: "100m"
         ports:
         - containerPort: 80
